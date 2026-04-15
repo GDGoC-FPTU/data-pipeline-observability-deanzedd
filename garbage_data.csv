@@ -1,0 +1,5 @@
+product,category,price,notes
+Mystery Box,,??,Missing category and invalid price
+Old Charger,Accessories,free,Non-numeric price value
+Unknown Device,Electronics,one_thousand,Broken price format
+Strange Gadget,Gadgets,999,Invalid category
